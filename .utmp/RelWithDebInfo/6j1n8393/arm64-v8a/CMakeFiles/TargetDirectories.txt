@@ -1,0 +1,5 @@
+D:/Self Studies/Unity/AR Project - 01/.utmp/RelWithDebInfo/6j1n8393/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Self Studies/Unity/AR Project - 01/.utmp/RelWithDebInfo/6j1n8393/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Self Studies/Unity/AR Project - 01/.utmp/RelWithDebInfo/6j1n8393/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Self Studies/Unity/AR Project - 01/.utmp/RelWithDebInfo/6j1n8393/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Self Studies/Unity/AR Project - 01/.utmp/RelWithDebInfo/6j1n8393/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
